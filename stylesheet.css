@@ -1,0 +1,234 @@
+#calcBody {
+    position:absolute;
+    width:400px;
+    height:600px;
+    border-style: solid;
+    border-radius:5%;
+    left:30%;
+}
+
+#screen {
+    position:absolute;
+    width:375px;
+    height:100px;
+    border-style: solid;
+    border-radius:5%;
+    top:2%;
+    left:2%;
+}
+
+#rows {
+    text-align:center;
+}
+
+#row1 {
+    border-style: solid;
+    position:absolute;
+    top:20%;
+    width:99%;
+    height:15%;
+}
+
+#row2 {
+    border-style: solid;
+    position:absolute;
+    top:35.5%;
+    width:99%;
+    height:15%;
+}
+
+#row3 {
+    border-style: solid;
+    position:absolute;
+    top:51%;
+    width:99%;
+    height:15%;
+}
+
+#row4 {
+    border-style: solid;
+    position:absolute;
+    top:66.5%;
+    width:99%;
+    height:15%;
+}
+
+#row5 {
+    border-style: solid;
+    position:absolute;
+    top:82%;
+    width:99%;
+    height:15%;
+}
+
+#clear {
+    width:25%;
+    height:100%;
+    position: absolute;
+    border-style:dotted;
+    border-color:blue;
+}
+
+#negPos {
+    width:25%;
+    height:100%;
+    position: absolute;
+    border-style:dotted;
+    border-color:gray;
+    left:25%;
+}
+
+#backspace {
+    width:25%;
+    height:100%;
+    position: absolute;
+    border-style:dotted;
+    border-color:green;
+    left:50%;
+}
+
+#divide {
+    width:25%;
+    height:100%;
+    position: absolute;
+    border-style:dotted;
+    border-color:red;
+    left:75%;
+}
+
+#multiply {
+    width:25%;
+    height:100%;
+    position: absolute;
+    border-style:dotted;
+    border-color:red;
+    left:75%;
+}
+
+#subtract {
+    width:25%;
+    height:100%;
+    position: absolute;
+    border-style:dotted;
+    border-color:red;
+    left:75%;
+}
+
+#add {
+    width:25%;
+    height:100%;
+    position: absolute;
+    border-style:dotted;
+    border-color:red;
+    left:75%;
+}
+
+#decimal {
+    width:25%;
+    height:100%;
+    position: absolute;
+    border-style:dotted;
+    border-color:green;
+    left:50%;
+}
+
+#equals {
+    width:25%;
+    height:100%;
+    position: absolute;
+    border-style:dotted;
+    border-color:red;
+    left:75%;
+}
+
+#one {
+    width:25%;
+    height:100%;
+    position: absolute;
+    border-style:dotted;
+    border-color:blue;
+}
+
+
+#two {
+    width:25%;
+    height:100%;
+    position: absolute;
+    border-style:dotted;
+    border-color:gray;
+    left:25%;
+}
+
+#three {
+    width:25%;
+    height:100%;
+    position: absolute;
+    border-style:dotted;
+    border-color:green;
+    left:50%;
+}
+
+#four {
+    width:25%;
+    height:100%;
+    position: absolute;
+    border-style:dotted;
+    border-color:blue;
+}
+
+#five {
+    width:25%;
+    height:100%;
+    position: absolute;
+    border-style:dotted;
+    border-color:gray;
+    left:25%;
+}
+
+#six {
+    width:25%;
+    height:100%;
+    position: absolute;
+    border-style:dotted;
+    border-color:green;
+    left:50%;
+}
+
+#seven {
+    width:25%;
+    height:100%;
+    position: absolute;
+    border-style:dotted;
+    border-color:blue;
+}
+
+#eight {
+    width:25%;
+    height:100%;
+    position: absolute;
+    border-style:dotted;
+    border-color:gray;
+    left:25%;
+}
+
+#nine {
+    width:25%;
+    height:100%;
+    position: absolute;
+    border-style:dotted;
+    border-color:green;
+    left:50%;
+}
+
+#zero {
+    width:50%;
+    height:100%;
+    position: absolute;
+    border-style:dotted;
+    border-color:blue;
+}
+
+
+
+
+

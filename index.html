@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>title</title>
+  <link rel="stylesheet" href="stylesheet.css" type="text/css">
+  </head>
+  <body>
+  <div id="calcBody">
+    <div id="screen"></div>
+    <div id="rows">
+      <div id="row1">
+        <div id="clear" onclick="clearScreen()">C</div>
+        <div id="negPos" onclick="switchSign()">±</div>
+        <div id="backspace" onclick="backspace()">←</div>
+        <div id="divide" onclick="divide()">÷</div>
+      </div>
+  
+      <div id="row2">
+        <div id="seven" onclick="addSevenToScreen()">7</div>
+        <div id="eight" onclick="addEightToScreen()">8</div>
+        <div id="nine" onclick="addNineToScreen()">9</div>
+        <div id="multiply" onclick="multiply()">×</div>
+      </div>
+  
+      <div id="row3">
+        <div id="four" onclick="addFourToScreen()">4</div>
+        <div id="five" onclick="addFiveToScreen()">5</div>
+        <div id="six" onclick="addSixToScreen()">6</div>
+        <div id="subtract" onclick="subtract()">-</div>
+      </div>
+  
+      <div id="row4">
+        <div id="one" onclick="addOneToScreen()">1</div>
+        <div id="two" onclick="addTwoToScreen()">2</div>
+        <div id="three" onclick="addThreeToScreen()">3</div>
+        <div id="add" onclick="add()">+</div>
+    </div>
+  
+      <div id="row5">
+        <div id="zero" onclick="addZeroToScreen()">0</div>
+        <div id="decimal" onclick="decimal()">.</div>
+        <div id="equals" onclick="eval()">=</div>
+      </div>
+    </div>
+    
+
+  </div>
+  </body>
+  <script src="index.js"></script>
+</html>
